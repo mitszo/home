@@ -33,10 +33,3 @@ export HGENCODING=utf-8
 alias ls='ls -G'
 alias ll='ls -l -G'
 
-# PATH
-export PATH=/opt/local/bin:/opt/local/sbin:$PATH
-export PATH=~/bin:$PATH
-# PATH for MySQL
-export PATH=/usr/local/mysql/bin:${PATH}
-
-
