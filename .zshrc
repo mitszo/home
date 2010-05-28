@@ -39,6 +39,4 @@ export PATH=~/bin:$PATH
 # PATH for MySQL
 export PATH=/usr/local/mysql/bin:${PATH}
 
-export ECSHOP=$HOME/Dropbox/ecsteady/git-ecsteady/shop/
-export ECBACK=$HOME/Dropbox/ecsteady/git-ecsteady/backoffice/
 
